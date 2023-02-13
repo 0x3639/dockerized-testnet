@@ -1,0 +1,9 @@
+[submodule "data/repos/znn-sdk-go"]
+	path = data/repos/znn-sdk-go
+	url = https://github.com/HyperCore-Team/znn-sdk-go.git
+[submodule "data/repos/go-zenon"]
+	path = data/repos/go-zenon
+	url = https://github.com/HyperCore-Team/go-zenon.git
+[submodule "data/repos/orchestrator"]
+	path = data/repos/orchestrator
+	url = https://github.com/HyperCore-Team/orchestrator.git
