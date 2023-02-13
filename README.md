@@ -1,7 +1,4 @@
-First clone the repos in `./data/repos`
+Clone repo and submodules `git clone --recurse-submodules https://github.com/HyperCore-Team/dockerized-testnet.git`
 
-Then build the dockers:
-`docker-compose build`
-
-And start the testnet:
-`docker-compose up`
+Build and start the Testnet
+`docker compose up -d`
